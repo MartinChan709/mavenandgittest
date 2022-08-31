@@ -11,6 +11,7 @@ public class MavenAndGitTest {
         System.out.println("由用户master编写");
 
         System.out.println("由用户user01编写");
+        System.out.println("由用户user01编写");
     }
 
 }
