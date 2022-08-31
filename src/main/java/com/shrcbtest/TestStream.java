@@ -1,4 +1,4 @@
-package com.test;
+package com.shrcbtest;
 
 import java.io.*;
 

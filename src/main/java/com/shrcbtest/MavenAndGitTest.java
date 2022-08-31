@@ -9,6 +9,8 @@ package com.shrcbtest;
 public class MavenAndGitTest {
     public static void main(String[] args) {
         System.out.println("由用户master编写");
+
+        System.out.println("由用户user01编写");
     }
 
 }
